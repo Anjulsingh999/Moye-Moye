@@ -38,6 +38,7 @@ img {
 @media (max-width:400px) {
     img{
         height: 70vh;
+        width: 100vw;
     }
 }
 
@@ -47,7 +48,7 @@ img {
   margin-top: 20vh;
   white-space: nowrap;
   overflow: hidden;
-  background: #c30f16;
+  background: #d9ff00;
   border-top: 2px solid #c30f16;
   border-bottom: 2px solid #c30f16;
   font-family: "Mountains of Christmas", serif;
@@ -63,7 +64,7 @@ img {
   border-top: 2px solid #fff;
   border-bottom: 2px solid #fff;
   padding: 2px 0;
-  color: #fff; /* Replace with your color */
+  color: #000000; /* Replace with your color */
 }
 
 .marquee-text {
@@ -83,11 +84,5 @@ img {
   }
 }
 
-audio{
-  position: relative;
-  right: -1400px;
-  bottom: -15px;
-  height: 50px;
-  width: 20px;
-}
+
 
