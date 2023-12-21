@@ -84,5 +84,24 @@ img {
   }
 }
 
+audio
+{
+  width: 109px;
+  height: 53px;
+
+
+  
+
+}
+
+#audiosection
+{
+  position: relative;
+  top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
